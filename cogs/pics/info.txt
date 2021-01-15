@@ -1,0 +1,7 @@
+Folder for pics and for .buypic command
+---------------------------------------
+to add files to be send format the files as so
+
+#.jpg
+
+the number should start at 1 and go up to whatever you want as you add more files
