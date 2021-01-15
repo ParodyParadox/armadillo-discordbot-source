@@ -116,5 +116,5 @@ for filename in os.listdir(r'./cogs'):
     if filename.endswith('.py'):
         client.load_extension(f'cogs.{filename[:-3]}')
 
-
-client.run('Nzk0NzA5MDM3OTIwNDE5ODcx.X--wdw.lyJ13mrW3e5CldvmnTHM7KNt3QQ')
+#discord api token = TOKEN
+client.run('TOKEN')
